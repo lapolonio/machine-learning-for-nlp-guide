@@ -27,7 +27,10 @@ Guide for engineers interested in NLP machine learning
   * Text Atlas
     * Feature Visualization https://distill.pub/2017/feature-visualization/
     * Activation Atlas https://distill.pub/2019/activation-atlas/
-    
+
+## Newsletter to Follow
+  * NLP News http://newsletter.ruder.io
+
 ## Blogs to Follow
   * Google Data Analytics https://cloud.google.com/blog/products/data-analytics/
   * AWS Big Data Blog https://aws.amazon.com/blogs/big-data/
