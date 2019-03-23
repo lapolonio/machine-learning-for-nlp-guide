@@ -50,3 +50,5 @@ Guide for engineers interested in NLP machine learning
   * The Berkeley Artificial Intelligence Research Blog http://bair.berkeley.edu/blog/
   * No Free Hunch http://blog.kaggle.com
   * Off the convex path http://offconvex.github.io/
+
+You can also follow me on twitter: https://twitter.com/LeoApolonio or LinkedIn: https://www.linkedin.com/in/leonardo-apolonio/
