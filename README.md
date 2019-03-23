@@ -14,7 +14,7 @@ Guide for engineers interested in NLP machine learning
 
   1. Profit
 
-## Current State of the Art Methods
+## State of the Art Methods
   * NLP Progress https://github.com/sebastianruder/NLP-progress
   * Papers with code https://paperswithcode.com/sota
 
