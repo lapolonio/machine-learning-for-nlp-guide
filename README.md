@@ -15,6 +15,7 @@ Guide for engineers interested in NLP machine learning
 
   1. Base Models to Use
       1. [BERT](https://github.com/google-research/bert)
+      1. https://spacy.io/ for general NLP tasks
 
   1. Profit
 
