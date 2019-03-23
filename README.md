@@ -5,6 +5,10 @@ Guide for engineers interested in NLP machine learning
   1. Understand possibilities and form business applications
       1. Everyone [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)
 
+  1. Gain theoretical foundation of Deep Learning for NLP
+      1. Stanford Course Materials http://web.stanford.edu/class/cs224n/
+      1. Standford Course Lectures https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+  
   1. Learn how to Deep Learning
       1. "Everyday" Engineers [Fast.ai](https://www.fast.ai/)
       1. Research Engineers [Deep Learning AI](https://www.deeplearning.ai/deep-learning-specialization/)
