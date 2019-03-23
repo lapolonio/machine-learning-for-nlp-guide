@@ -14,6 +14,10 @@ Guide for engineers interested in NLP machine learning
 
   1. Profit
 
+## Current State of the Art Methods
+  * NLP Progress https://github.com/sebastianruder/NLP-progress
+  * Papers with code https://paperswithcode.com/sota
+
 ## Resources
   * Expand Data Labeled Data using Unlabled Data
     * Blog: https://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html
