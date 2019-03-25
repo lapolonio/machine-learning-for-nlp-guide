@@ -28,7 +28,7 @@ Guide for engineers interested in NLP machine learning
     * Blog: https://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html
     * Detailed Article: https://towardsdatascience.com/a-look-into-snorkel-drybell-8e9e781dc250
   * Explain Predictions
-    * Python Library: https://github.com/datascienceinc/Skater
+    * Python Library: https://github.com/jphall663/awesome-machine-learning-interpretability
   * Deploy models to production
     * Tutorial: https://hackernoon.com/enterprise-af-solution-for-text-classification-using-bert-9fe2b7234c46
     
