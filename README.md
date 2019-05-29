@@ -31,7 +31,13 @@ Guide for engineers interested in NLP machine learning
     * Python Library: https://github.com/jphall663/awesome-machine-learning-interpretability
   * Deploy models to production
     * Tutorial: https://hackernoon.com/enterprise-af-solution-for-text-classification-using-bert-9fe2b7234c46
-    
+
+## Tools
+  * https://prodi.gy/buy
+    * Text and image annotation
+  * https://github.com/chakki-works/doccano
+    * Open source text annotation tool
+
 ## Research Interest
   * Text Atlas
     * Feature Visualization https://distill.pub/2017/feature-visualization/
