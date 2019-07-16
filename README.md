@@ -38,6 +38,7 @@ Guide for engineers interested in NLP machine learning
     * Deep Learning from the Foundations: https://www.fast.ai/2019/06/28/course-p2v3/
   * More Learning Resources:
     * [The Best Artificial Intelligence, Machine Learning and Data Science Resources*](https://www.notion.so/b3b97fa097b747698e87fd3badc657cf)
+  * [nlp-library curated list of papers](https://github.com/mihail911/nlp-library)
 
 ## Tools
   * https://prodi.gy/buy
