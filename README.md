@@ -13,6 +13,9 @@ Guide for engineers interested in NLP machine learning
       1. "Everyday" Engineers [Fast.ai](https://www.fast.ai/)
       1. Research Engineers [Deep Learning AI](https://www.deeplearning.ai/deep-learning-specialization/)
 
+  1. Learn about all the stuff "they don't teach"
+      1. Learn Production-Level Deep Learning: https://fullstackdeeplearning.com/
+      1. Resources: https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project
   1. Base Models to Use
       1. [BERT](https://github.com/google-research/bert)
       1. https://spacy.io/ for general NLP tasks
@@ -31,6 +34,8 @@ Guide for engineers interested in NLP machine learning
     * Python Library: https://github.com/jphall663/awesome-machine-learning-interpretability
   * Deploy models to production
     * Tutorial: https://hackernoon.com/enterprise-af-solution-for-text-classification-using-bert-9fe2b7234c46
+  * Learn how to implement new models
+    * Deep Learning from the Foundations: https://www.fast.ai/2019/06/28/course-p2v3/
 
 ## Tools
   * https://prodi.gy/buy
