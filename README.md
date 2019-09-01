@@ -7,7 +7,7 @@ Guide for engineers interested in NLP machine learning
 
   1. Gain theoretical foundation of Deep Learning for NLP
       1. Stanford Course Materials http://web.stanford.edu/class/cs224n/
-      1. Natural Language Processing with Deep Learning https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+      1. Natural Language Processing with Deep Learning https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
       1. Stanford CS224U: Natural Language Understanding https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
   
   1. Learn how to Deep Learning
