@@ -41,6 +41,10 @@ Guide for engineers interested in NLP machine learning
   * More Learning Resources:
     * [The Best Artificial Intelligence, Machine Learning and Data Science Resources*](https://www.notion.so/b3b97fa097b747698e87fd3badc657cf)
   * [nlp-library curated list of papers](https://github.com/mihail911/nlp-library)
+  * Machine Learning System Best Practice and Design:
+    * The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction: https://ai.google/research/pubs/pub46555
+    * Machine Learning: The High Interest Credit Card of Technical Debt: https://ai.google/research/pubs/pub43146
+    
 
 ## Tools
   * https://prodi.gy/buy
