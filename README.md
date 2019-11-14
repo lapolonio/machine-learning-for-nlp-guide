@@ -51,6 +51,8 @@ Guide for engineers interested in NLP machine learning
     * Text and image annotation
   * https://github.com/chakki-works/doccano
     * Open source text annotation tool
+  * https://www.media.mit.edu/projects/dive/overview/
+    
 
 ## Infrastructure
   * Seldon
@@ -70,6 +72,7 @@ Guide for engineers interested in NLP machine learning
 
 ## Newsletter to Follow
   * NLP News http://newsletter.ruder.io
+  * The Batch https://www.deeplearning.ai/thebatch/
 
 ## Blogs to Follow
   * Google Data Analytics https://cloud.google.com/blog/products/data-analytics/
