@@ -52,6 +52,17 @@ Guide for engineers interested in NLP machine learning
   * https://github.com/chakki-works/doccano
     * Open source text annotation tool
 
+## Infrastructure
+  * Seldon
+    * https://www.youtube.com/watch?time_continue=2&v=cDtzu4WBzWA
+    * https://github.com/kubeflow/example-seldon
+    * https://docs.seldon.io/projects/seldon-core/en/latest/examples/nvidia_mnist.html
+  * Kubeflow
+    * https://www.kubeflow.org/docs/started/getting-started/
+  * TFX
+    * https://www.tensorflow.org/tfx
+  * ![Comare TFX and Kubeflow](https://imgur.com/IuH3T04.png)
+
 ## Research Interest
   * Text Atlas
     * Feature Visualization https://distill.pub/2017/feature-visualization/
