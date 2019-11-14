@@ -52,6 +52,7 @@ Guide for engineers interested in NLP machine learning
   * https://github.com/chakki-works/doccano
     * Open source text annotation tool
   * https://www.media.mit.edu/projects/dive/overview/
+    * DIVE is a web-based data exploration system that lets non-technical users create stories from their data without writing code. DIVE combines semantic data ingestion, recommendation-based visualization and analysis, and dynamic story sharing into a unified workflow. 
     
 
 ## Infrastructure
