@@ -75,6 +75,9 @@ Guide for engineers interested in NLP machine learning
   * NLP News http://newsletter.ruder.io
   * The Batch https://www.deeplearning.ai/thebatch/
 
+## Podcasts to listen
+  * NLP Highlights https://soundcloud.com/nlp-highlights
+
 ## Blogs to Follow
   * Google Data Analytics https://cloud.google.com/blog/products/data-analytics/
   * AWS Big Data Blog https://aws.amazon.com/blogs/big-data/
