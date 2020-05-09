@@ -5,10 +5,14 @@ Guide for engineers interested in NLP machine learning
   1. Understand possibilities and form business applications
       1. Everyone [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)
 
-  1. Gain theoretical foundation of Deep Learning for NLP
-      1. Stanford Course Materials http://web.stanford.edu/class/cs224n/
-      1. Natural Language Processing with Deep Learning https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
-      1. Stanford CS224U: Natural Language Understanding https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
+  1. Either
+      1. Gain theoretical foundation of Deep Learning for NLP
+         1. Stanford Course Materials http://web.stanford.edu/class/cs224n/
+         1. Natural Language Processing with Deep Learning https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+         1. Stanford CS224U: Natural Language Understanding https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
+      1. Get "Practical Knowledge"
+         1. [Rasa Whiteboard Youtube](https://www.youtube.com/watch?v=mWvnlVw_LiY&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=5)
+         1. [Rasa Whiteboard Github](https://www.youtube.com/redirect?redir_token=JoSXMpXu79Zsu0ao_9CQMdS4Jr18MTU4OTEzMjUzOEAxNTg5MDQ2MTM4&q=https%3A%2F%2Fgithub.com%2FRasaHQ%2Falgorithm-whiteboard-resources&v=mWvnlVw_LiY&event=video_description)
   
   1. Learn how to Deep Learning
       1. [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I)
@@ -19,14 +23,15 @@ Guide for engineers interested in NLP machine learning
       1. Learn Production-Level Deep Learning: https://fullstackdeeplearning.com/
       1. Resources: https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project
   1. Base Models to Use
-      1. [BERT](https://github.com/google-research/bert)
-      1. https://spacy.io/ for general NLP tasks
+      1. [Spacy](https://spacy.io/) for general NLP tasks
+      1. [HuggingFace Transformers](https://github.com/huggingface/transformers)
 
   1. Profit
 
 ## State of the Art Methods
-  * NLP Progress https://github.com/sebastianruder/NLP-progress
-  * Papers with code https://paperswithcode.com/sota
+  * [NLP Progress](https://github.com/sebastianruder/NLP-progress)
+  * [Glue](https://gluebenchmark.com/leaderboard)
+  * [Papers with code](https://paperswithcode.com/sota)
 
 ## Resources
   * Expand Data Labeled Data using Unlabled Data
