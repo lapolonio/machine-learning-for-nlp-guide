@@ -35,6 +35,7 @@ Guide for engineers interested in NLP machine learning
 
 ## Resources
   * BERT commit log https://amitness.com/2020/05/git-log-of-bert/
+  * Full stack deep learning github repo: https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project
   * Expand Data Labeled Data using Unlabled Data
     * Blog: https://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html
     * Detailed Article: https://towardsdatascience.com/a-look-into-snorkel-drybell-8e9e781dc250
