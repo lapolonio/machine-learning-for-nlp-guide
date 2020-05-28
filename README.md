@@ -11,6 +11,7 @@ Guide for engineers interested in NLP machine learning
          1. Natural Language Processing with Deep Learning https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
          1. Stanford CS224U: Natural Language Understanding https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
       1. __Getting "Practical" Knowledge of Deep Learning for NLP__
+         1. [3Blue1Brown Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
          1. [Rasa Whiteboard Youtube](https://www.youtube.com/watch?v=mWvnlVw_LiY&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=5)
          1. [Rasa Whiteboard Github](https://www.youtube.com/redirect?redir_token=JoSXMpXu79Zsu0ao_9CQMdS4Jr18MTU4OTEzMjUzOEAxNTg5MDQ2MTM4&q=https%3A%2F%2Fgithub.com%2FRasaHQ%2Falgorithm-whiteboard-resources&v=mWvnlVw_LiY&event=video_description)
   
