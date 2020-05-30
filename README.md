@@ -35,6 +35,7 @@ Guide for engineers interested in NLP machine learning
   * [Papers with code](https://paperswithcode.com/sota)
 
 ## Resources
+  * BERT, ELMo, & GPT-2: How Contextual are Contextualized Word Representations? http://ai.stanford.edu/blog/contextual/
   * BERT commit log https://amitness.com/2020/05/git-log-of-bert/
   * Full stack deep learning github repo: https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project
   * Expand Data Labeled Data using Unlabled Data
