@@ -114,4 +114,7 @@ Guide for engineers interested in NLP machine learning
   * No Free Hunch http://blog.kaggle.com
   * Off the convex path http://offconvex.github.io/
 
+## Datasets
+  * A unified platform for sharing, training and evaluating dialogue models across many tasks. https://parl.ai/
+
 You can also follow me on twitter: https://twitter.com/LeoApolonio
