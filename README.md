@@ -57,6 +57,7 @@ Guide for engineers interested in NLP machine learning
   * Machine Learning System Best Practice and Design:
     * The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction: https://ai.google/research/pubs/pub46555
     * Machine Learning: The High Interest Credit Card of Technical Debt: https://ai.google/research/pubs/pub43146
+  * [An Interactive Visualization to Explore NLP Papers](https://saifmohammad.com/WebPages/nlpscholar-demo-basic.html)
     
 
 ## Tools
