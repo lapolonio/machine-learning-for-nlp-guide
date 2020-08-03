@@ -58,6 +58,8 @@ Guide for engineers interested in NLP machine learning
     * The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction: https://ai.google/research/pubs/pub46555
     * Machine Learning: The High Interest Credit Card of Technical Debt: https://ai.google/research/pubs/pub43146
   * [An Interactive Visualization to Explore NLP Papers](https://saifmohammad.com/WebPages/nlpscholar-demo-basic.html)
+  * [How Big Should My Language Model Be?](https://huggingface.co/calculator/)
+  * [Accelerate your NLP pipelines using Hugging Face Transformers and ONNX Runtime](https://opendatascience.com/accelerate-your-nlp-pipelines-using-hugging-face-transformers-and-onnx-runtime/)
     
 
 ## Tools
